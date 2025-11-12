@@ -3,7 +3,21 @@
   <p>Estudiante de Ingeniería del Software, apasionado por la innovación y el aprendizaje continuo. Siempre buscando el siguiente desafío tecnológico. ¡Bienvenido/a a mi rincón digital! ✨</p>
 </div>
 
-<img src="/assets/banner.png" alt="Banner de Jesús Sánchez Quirós" style="width: 100%;">
+<div align="center" style="
+    background-color: #331A47;
+    color: #E6E6FA; 
+    padding: 20px;
+    border-radius: 12px;
+    border: 2px solid #9370DB; 
+    margin-top: 20px;
+">
+    <h2 style="margin: 0; font-size: 1.8em; letter-spacing: 2px;">
+        INGENIERO DE SOFTWARE 💻
+    </h2>
+    <p style="margin: 5px 0 0 0; font-size: 1em; opacity: 0.8;">
+        Java ☕ | JavaScript 🌐 | TypeScript 🟦 | Python 🐍
+    </p>
+</div>
 
 ---
 
