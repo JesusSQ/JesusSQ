@@ -3,7 +3,9 @@
   <p>Estudiante de Ingeniería del Software, apasionado por la innovación y el aprendizaje continuo. Siempre buscando el siguiente desafío tecnológico. ¡Bienvenido/a a mi rincón digital! ✨</p>
 </div>
 
-![Banner de Jesús Sánchez Quirós](/assets/banner.png) ---
+<img src="/assets/banner.png" alt="Banner de Jesús Sánchez Quirós" style="width: 100%;">
+
+---
 
 ### 🚀 Sobre mí:
 
